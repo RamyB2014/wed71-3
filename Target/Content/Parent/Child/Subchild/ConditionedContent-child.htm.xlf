@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="ConditionedContent-child.htm"
@@ -355,11 +355,11 @@
             mid="1"
             MadCap:conditions="Default.PrintOnly"
             MadCap:parentConditions="||Default.PrintOnly">Make sure to insert variable as TOC node title</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">مترجم</mrk></target></trans-unit><trans-unit
         id="23"
         restype="x-xhtml-madcap:footnote"
         phase-name="pretrans"><source>ConditionedOutFootnote</source><seg-source><mrk
