@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="ReplaceInTarget">Hello</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-11-04T09:01:20.6477264-08:00">mm/dd/yy | hh:mm</Variable>
+  <Variable
+    Name="ReplaceInTarget"
+    Comment="">What's up?</Variable>
+</CatapultVariableSet>

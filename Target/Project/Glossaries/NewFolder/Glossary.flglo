@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>My Conditioned Term</Term>
+    </Terms>
+    <Definition
+      Link="">This should be listed for translation</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    SortAs="z"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Allow</Term>
+    </Terms>
+    <Definition
+      Link="">This is my definition for allow</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    SortAs="x"
+    IgnoreCase="true">
+    <Terms>
+      <Term>cat</Term>
+    </Terms>
+    <Definition
+      Link="">This is my definition for cat</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    SortAs="t"
+    IgnoreCase="true">
+    <Terms>
+      <Term>topic</Term>
+    </Terms>
+    <Definition
+      Link="/Content/Parent/Child/Subchild/ContentWBothConditions-subchildFolder.htm"></Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

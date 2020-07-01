@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="IndexLinkSet.flixl"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-flixl"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="IndexLinkSet.flixl.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">16</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7487.27091"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-term"
+        phase-name="pretrans"><source>Keyword 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Keyword 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-term"
+        phase-name="pretrans"><source>Keyword 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Keyword 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-term"
+        phase-name="pretrans"><source>Keyword 4</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Keyword 4</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-term"
+        phase-name="pretrans"><source>Parent 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parent 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-term"
+        phase-name="pretrans"><source>Parent 1:child 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parent 1:child 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-term"
+        phase-name="pretrans"><source>Parent 1:child 1:child 1a</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parent 1:child 1:child 1a</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-term"
+        phase-name="pretrans"><source>Parent 1:child 1:child 1b</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parent 1:child 1:child 1b</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-term"
+        phase-name="pretrans"><source>Parent 1:child 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parent 1:child 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-term"
+        phase-name="pretrans"><source>ref 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">ref 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-term"
+        phase-name="pretrans"><source>Keyword 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Keyword 3</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-term"
+        phase-name="pretrans"><source>ref 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">ref 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-term"
+        phase-name="pretrans"><source>ref 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">ref 3</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-term"
+        phase-name="pretrans"><source>Parentr 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parentr 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-term"
+        phase-name="pretrans"><source>Parentr 2:childr 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parentr 2:childr 1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-term"
+        phase-name="pretrans"><source>Parentr 2:childr 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Parentr 2:childr 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-term"
+        phase-name="pretrans"><source>Table index:table child:table child 1:table child 2:table child 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Term">Table index:table child:table child 1:table child 2:table child 3</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

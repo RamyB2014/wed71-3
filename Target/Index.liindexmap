@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Conditioned snippet index</Key>
+  <OldValue>Conditioned snippet index</OldValue>
+  <NewValue>Conditioned snippet index</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>conditioned toggler head index</Key>
+  <OldValue>conditioned toggler head index</OldValue>
+  <NewValue>conditioned toggler head index</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>ConditionedIndexKeyword</Key>
+  <OldValue>ConditionedIndexKeyword</OldValue>
+  <NewValue>ConditionedIndexKeyword</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Keyword 1</Key>
+  <OldValue>Keyword 1</OldValue>
+  <NewValue>Keyword 1</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Keyword 2</Key>
+  <OldValue>Keyword 2</OldValue>
+  <NewValue>Keyword 2</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Keyword 3</Key>
+  <OldValue>Keyword 3</OldValue>
+  <NewValue>Keyword 3</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Keyword 4</Key>
+  <OldValue>Keyword 4</OldValue>
+  <NewValue>Keyword 4</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Parent 1</Key>
+  <OldValue>Parent 1</OldValue>
+  <NewValue>Parent 1</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>child 1</Key>
+  <OldValue>child 1</OldValue>
+  <NewValue>child 1</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>child 1a</Key>
+  <OldValue>child 1a</OldValue>
+  <NewValue>child 1a</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>child 1b</Key>
+  <OldValue>child 1b</OldValue>
+  <NewValue>child 1b</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>child 2</Key>
+  <OldValue>child 2</OldValue>
+  <NewValue>child 2</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Parentr 2</Key>
+  <OldValue>Parentr 2</OldValue>
+  <NewValue>Parentr 2</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>childr 1</Key>
+  <OldValue>childr 1</OldValue>
+  <NewValue>childr 1</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>childr 2</Key>
+  <OldValue>childr 2</OldValue>
+  <NewValue>childr 2</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>ref 1</Key>
+  <OldValue>ref 1</OldValue>
+  <NewValue>ref 1</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>ref 2</Key>
+  <OldValue>ref 2</OldValue>
+  <NewValue>ref 2</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>ref 3</Key>
+  <OldValue>ref 3</OldValue>
+  <NewValue>ref 3</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Slideshow table Index</Key>
+  <OldValue>Slideshow table Index</OldValue>
+  <NewValue>Slideshow table Index</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Snippet index</Key>
+  <OldValue>Snippet index</OldValue>
+  <NewValue>Snippet index</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Table index</Key>
+  <OldValue>Table index</OldValue>
+  <NewValue>Table index</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>table child</Key>
+  <OldValue>table child</OldValue>
+  <NewValue>table child</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>table child 1</Key>
+  <OldValue>table child 1</OldValue>
+  <NewValue>table child 1</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>table child 2</Key>
+  <OldValue>table child 2</OldValue>
+  <NewValue>table child 2</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>LLL</Key>
+  <OldValue>LLL</OldValue>
+  <NewValue>LLL</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>NNN</Key>
+  <OldValue>NNN</OldValue>
+  <NewValue>NNN</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>table child 3</Key>
+  <OldValue>table child 3</OldValue>
+  <NewValue>table child 3</NewValue>
+</Entry>
+</StringMap>

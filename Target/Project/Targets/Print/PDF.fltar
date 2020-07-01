@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  TargetLanguage="en-us,ar_file:///C:/Users/rbutros/Desktop/Arabic/ConditionsArabic/ConditionsArabic.flprj,es_file:///C:/Users/rbutros/Desktop/Spanish/ConditionsSpanish/ConditionsSpanish.flprj"
+  InjectEmptyPages="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    PreserveTrackedChanges="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="expand" />
+  <PDF
+    InitialMagnification="75"
+    RequireOpenPassword="true"
+    OpenPassword="2cpUCRAB2QHI+C1HBD6dyQ==" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Destination.fldes" />
+  </Destinations>
+</CatapultTarget>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  conditions=""
+  ConditionTagExpression="exclude[Default.ScreenOnly]"
+  ExcludeUnreferencedContent="true"
+  InsertMOTW="true"
+  MoveOutputContentToRoot="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  ReplaceSpacesWithUnderscores="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

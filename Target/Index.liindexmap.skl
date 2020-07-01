@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Conditioned snippet index</Key>
+        <OldValue>Conditioned snippet index</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>conditioned toggler head index</Key>
+        <OldValue>conditioned toggler head index</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>ConditionedIndexKeyword</Key>
+        <OldValue>ConditionedIndexKeyword</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Keyword 1</Key>
+        <OldValue>Keyword 1</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Keyword 2</Key>
+        <OldValue>Keyword 2</OldValue>
+        <NewValue>砻קยด5ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Keyword 3</Key>
+        <OldValue>Keyword 3</OldValue>
+        <NewValue>砻קยด6ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Keyword 4</Key>
+        <OldValue>Keyword 4</OldValue>
+        <NewValue>砻קยด7ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Parent 1</Key>
+        <OldValue>Parent 1</OldValue>
+        <NewValue>砻קยด8ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>child 1</Key>
+        <OldValue>child 1</OldValue>
+        <NewValue>砻קยด9ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>child 1a</Key>
+        <OldValue>child 1a</OldValue>
+        <NewValue>砻קยด10ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>child 1b</Key>
+        <OldValue>child 1b</OldValue>
+        <NewValue>砻קยด11ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>child 2</Key>
+        <OldValue>child 2</OldValue>
+        <NewValue>砻קยด12ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Parentr 2</Key>
+        <OldValue>Parentr 2</OldValue>
+        <NewValue>砻קยด13ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>childr 1</Key>
+        <OldValue>childr 1</OldValue>
+        <NewValue>砻קยด14ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>childr 2</Key>
+        <OldValue>childr 2</OldValue>
+        <NewValue>砻קยด15ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>ref 1</Key>
+        <OldValue>ref 1</OldValue>
+        <NewValue>砻קยด16ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>ref 2</Key>
+        <OldValue>ref 2</OldValue>
+        <NewValue>砻קยด17ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>ref 3</Key>
+        <OldValue>ref 3</OldValue>
+        <NewValue>砻קยด18ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Slideshow table Index</Key>
+        <OldValue>Slideshow table Index</OldValue>
+        <NewValue>砻קยด19ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Snippet index</Key>
+        <OldValue>Snippet index</OldValue>
+        <NewValue>砻קยด20ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Table index</Key>
+        <OldValue>Table index</OldValue>
+        <NewValue>砻קยด21ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>table child</Key>
+        <OldValue>table child</OldValue>
+        <NewValue>砻קยด22ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>table child 1</Key>
+        <OldValue>table child 1</OldValue>
+        <NewValue>砻קยด23ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>table child 2</Key>
+        <OldValue>table child 2</OldValue>
+        <NewValue>砻קยด24ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>LLL</Key>
+        <OldValue>LLL</OldValue>
+        <NewValue>砻קยด25ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>NNN</Key>
+        <OldValue>NNN</OldValue>
+        <NewValue>砻קยด26ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>table child 3</Key>
+        <OldValue>table child 3</OldValue>
+        <NewValue>砻קยด27ตว融</NewValue>
+    </Entry>
+</StringMap>

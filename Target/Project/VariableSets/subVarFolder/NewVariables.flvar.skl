@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="multidef1comment" Name="MultiDefVar" EvaluatedDefinition="Multi-definition variable definition 01">砻קยด1ตว融</Variable>
+    <Variable Comment="single def var comment" Name="SingleDefVar" EvaluatedDefinition="Single definition variable definition">砻קยด2ตว融</Variable>
+    <Variable Name="MultiDefVar" Comment="multidef2comment" EvaluatedDefinition="Multi-definition variable definition 2">砻קยด3ตว融</Variable>
+    <Variable Name="VarDefFlattened" Comment="varDefFlattened comment" EvaluatedDefinition="Flattened variable definition &gt; Flattened Definition Variable">砻קยด4ตว融</Variable>
+    <Variable Name="VarDefNotFlattned" Comment="varDefNotFlattened comment" EvaluatedDefinition="Unflattened variable definition &gt; Unflattened Definition&#160;Variable.">砻קยด5ตว融</Variable>
+    <Variable Name="UnflattenedDef.Var." Comment="unflatteneddefvar comment" EvaluatedDefinition="Unflattened Definition&#160;Variable.">砻קยด6ตว融</Variable>
+    <Variable Name="FlattenedDefVar" Comment="flatteneddefvar comment" EvaluatedDefinition="Flattened Definition Variable here">砻קยด7ตว融</Variable>
+    <Variable Name="Date" Comment="dateFileCreationComment" Type="DateTimeFileCreated" LastUpdated="2015-12-09T12:52:03.4519952-08:00" EvaluatedDefinition="&quot;File Creation&quot; hh:mm tt - MM/dd/yyyy">砻קยด8ตว融</Variable>
+    <Variable Name="Date" Comment="onBuild Comment" Type="DateTime" LastUpdated="2015-12-09T12:55:13.7371920-08:00" EvaluatedDefinition="&quot;On Build&quot; hh:mm tt - MM/dd/yyyy">砻קยด9ตว融</Variable>
+    <Variable Name="Date" Comment="fileSave Comment" Type="DateTimeFileSaved" LastUpdated="2015-12-09T12:55:37.5849905-08:00" EvaluatedDefinition="&quot;File Save&quot; hh:mm tt - MM/dd/yyyy">砻קยด10ตว融</Variable>
+    <Variable Name="Date" Comment="ProjectSave Comment" Type="DateTimeProjectSaved" LastUpdated="2015-12-09T12:56:04.2812619-08:00" EvaluatedDefinition="&quot;Project Save&quot; hh:mm tt - MM/dd/yyyy">砻קยด11ตว融</Variable>
+</CatapultVariableSet>

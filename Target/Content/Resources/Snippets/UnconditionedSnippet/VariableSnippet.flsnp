@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="61" MadCap:lastWidth="1274" xml:space="preserve">
+    <head>
+    </head>
+    <body><span>Variable with flattened variable definition: <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.VarDefFlattened" />Variable with unflattened variable definition: <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.VarDefNotFlattned" /></span>
+    </body>
+</html>

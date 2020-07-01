@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="4689" MadCap:lastWidth="1017" MadCap:conditions="Default.ScreenOnly" xml:space="preserve">
+    <head>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Parent 1:child 2;ref 1;Parentr 2:childr 2" /><a name="top"></a>
+            <MadCap:pageHeader MadCap:conditions="Default.ScreenOnly">
+                <p>- topic header-</p>
+            </MadCap:pageHeader>ConditionedTopic-parent</h1>
+        <p style="font-family: 'Bodoni MT Black';">Delete this text and replace it with your own content. (Inline)</p>
+        <p class="FontStyle">This is font styled from the stylesheet. </p>
+        <p>This paragraph has <MadCap:conditionalText MadCap:conditions="Default.PrintOnly">PrintOnly </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.ScreenOnly">ScreenOnly </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.GreenOnly">GreenOnly</MadCap:conditionalText>.</p>
+        <p>This paragraph has <MadCap:conditionalText MadCap:conditions="Default.PrintOnly">PrintOnly </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.GreenOnly">GreenOnly </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.ScreenOnly">ScreenOnly </MadCap:conditionalText>.</p>
+        <p>This paragraph has <MadCap:conditionalText MadCap:conditions="Default.PrintOnly">PrintOnly </MadCap:conditionalText>Separator <MadCap:conditionalText MadCap:conditions="Default.GreenOnly">GreenOnly </MadCap:conditionalText>and <MadCap:conditionalText MadCap:conditions="Default.ScreenOnly">ScreenOnly </MadCap:conditionalText>.</p>
+        <p> </p>
+        <h2>Images</h2>
+        <p> </p>
+        <p>
+            <img src="../Resources/Images/!kim.jpg" title="KimImage screentip " alt="KimImage alttext " />Conditioned image file</p>
+        <p> </p>
+        <p>
+            <img src="../Resources/Images/funny_meme_by_firefox2014-d7x82sj.jpg" MadCap:conditions="Default.ScreenOnly" title="IFeelIt screentip " alt="IFeelIt alttext " /> Conditioned inline</p>
+        <p> </p>
+        <h2>Flash Movies</h2>
+        <p>
+            <object title="FlashMovie screentip" src="../Resources/Multimedia/swf.swf" style="width: 320px;height: 240px;">
+            </object> flashMovie file conditioned</p>
+        <p> </p>
+        <p>
+            <object title="Screentip madcap Simon" src="../Resources/Multimedia/SWF2.swf" style="width: 500px;height: 300px;" MadCap:conditions="Default.ScreenOnly">
+            </object> conditioned inline</p>
+        <p> </p>
+        <h2>QR code</h2>
+        <p>
+            <MadCap:qrCode title="QR code screentip" alt="QR code screentip altText" MadCap:conditions="Default.ScreenOnly">www.yahoo.com</MadCap:qrCode>QR code conditioned out</p>
+        <h2>Slideshow</h2>
+        <MadCap:slideshow>
+            <MadCap:slide>
+                <h2>Slide 1</h2>
+                <p>I'm conditioning the second slide in this presentation</p>
+                <p>
+                    <img src="../Resources/Images/01.PNG" />
+                </p>
+            </MadCap:slide>
+            <MadCap:slide MadCap:conditions="Default.ScreenOnly">
+                <h2>Slide 2</h2>
+                <p>This shouldn't be parsed for translation when excluding screenOnly condition.</p>
+                <p>
+                    <object title="Youtube video in a conditioned slide" src="https://www.youtube.com/watch?v=kE0N55o9-4k" style="width: 560px;height: 315px;">
+                    </object>
+                </p>
+            </MadCap:slide>
+            <MadCap:slide>
+                <h2>Slide 3</h2>
+                <p>I'm conditioning the second slide in this presentation</p>
+                <p> </p>
+            </MadCap:slide>
+        </MadCap:slideshow>
+        <MadCap:slideshow MadCap:conditions="Default.ScreenOnly">
+            <MadCap:slide>
+                <h2>Slide 1</h2>
+                <p>Condtitioned Slideshow</p>
+                <table style="width: 100%;border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;border-collapse: collapse;">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>One</td>
+                            <td>Two</td>
+                        </tr>
+                        <tr>
+                            <td>Three</td>
+                            <td>Four</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p> </p>
+            </MadCap:slide>
+            <MadCap:slide>
+                <h2>Slide 2</h2>
+                <p>This is still conditioned out</p>
+                <p> </p>
+            </MadCap:slide>
+        </MadCap:slideshow>
+        <h2>Tables</h2>
+        <table style="width: 100%;border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;border-collapse: collapse;caption-side: top;" MadCap:conditions="Default.ScreenOnly">
+            <caption>Conditioned Table</caption>
+            <col />
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Conditioned table</td>
+                    <td>Conditioned table</td>
+                    <td>Conditioned table</td>
+                </tr>
+                <tr>
+                    <td>Conditioned table</td>
+                    <td>Conditioned table</td>
+                    <td>Conditioned table</td>
+                </tr>
+                <tr>
+                    <td>Conditioned table</td>
+                    <td>Conditioned table</td>
+                    <td>Conditioned table</td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%;border-collapse: collapse;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>Hello there</td>
+                    <td>How are you? </td>
+                </tr>
+            </tbody>
+        </table>
+        <p> </p>
+        <table style="width: 100%;border-collapse: collapse;border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;caption-side: bottom;">
+            <caption>Conditioned Row</caption>
+            <col />
+            <col />
+            <tbody>
+                <tr MadCap:conditions="Default.ScreenOnly">
+                    <td MadCap:conditions="">conditioned row</td>
+                    <td MadCap:conditions="">conditioned row</td>
+                </tr>
+                <tr>
+                    <td>cell one</td>
+                    <td>cell two</td>
+                </tr>
+                <tr>
+                    <td>cell three</td>
+                    <td>cell four</td>
+                </tr>
+            </tbody>
+        </table>
+        <p> </p>
+        <h2>Hyperlinks</h2>
+        <p MadCap:conditions="Default.ScreenOnly"><a href="https://www.google.com/maps" target="_parent" title="hyperlink screentip" alt="hyperlink screentip">Website hyperlink</a> conditioned website hyperlink</p>
+        <p MadCap:conditions="Default.ScreenOnly">File in Project hyperlink conditioned file in project hyperlink
+		</p>
+        <p> </p>
+        <h2>Xref</h2>
+        <p MadCap:conditions="Default.ScreenOnly">
+            <MadCap:xref href="#top">ConditionedTopic</MadCap:xref> Conditioned Xref</p>
+        <p> </p>
+        <h2>GlossaryLink</h2>
+        <p MadCap:conditions="Default.ScreenOnly">
+            <MadCap:glossaryTerm glossTerm="Glossary.Term0">My Conditioned Term</MadCap:glossaryTerm>
+        </p>
+        <p> </p>
+        <p> </p>
+        <h2>Keyword</h2>
+        <p>Next to here is a conditioned keyword. &gt; <MadCap:keyword term="ConditionedIndexKeyword" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p> </p>
+        <h2>Concept</h2>
+        <p>Next to here is a conditioned Concept &gt; <MadCap:concept term="ConditionedConcept" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p> </p>
+        <h2>Snippets</h2>
+        <div>
+            <p>Snippet conditioned partially: <MadCap:snippetText src="../Resources/Snippets/Snippet.flsnp" /></p>
+            <p> </p>
+            <p>Snippet conditioned fully in topic: <MadCap:snippetText src="../Resources/Snippets/Snippet.flsnp" MadCap:conditions="Default.ScreenOnly" /></p>
+            <p> </p>
+            <p>Snippet conditioned fully in file: <MadCap:snippetText src="../Resources/Snippets/ConditionedSnippet.flsnp" /></p>
+            <p> </p>
+        </div>
+        <div MadCap:conditions="Default.ScreenOnly" style="background-color: #f0f8ff;">
+            <p>Snippet conditioned partially: <MadCap:snippetText src="../Resources/Snippets/Snippet.flsnp" /></p>
+            <p> </p>
+            <p>Snippet conditioned fully in topic: <MadCap:snippetText src="../Resources/Snippets/Snippet.flsnp" MadCap:conditions="Default.ScreenOnly" /></p>
+            <p> </p>
+            <p>Snippet conditioned fully in file: <MadCap:snippetText src="../Resources/Snippets/ConditionedSnippet.flsnp" /></p>
+        </div>
+        <p> </p>
+        <h2>Variables<MadCap:footnote style="mc-footnote-position: topic;">Make sure to insert variable as TOC node title</MadCap:footnote><MadCap:footnote style="mc-footnote-position: topic;" MadCap:conditions="Default.ScreenOnly">ConditionedOutFootnote</MadCap:footnote></h2>
+        <h4>Variable conditioned in topic:</h4>
+        <p>Date variable: <MadCap:variable name="subVarFolder/NewVariables.Date" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p>Multi-definition variable: <MadCap:variable name="subVarFolder/NewVariables.MultiDefVar" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p>Single definition variable: <MadCap:variable name="subVarFolder/NewVariables.SingleDefVar" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p>Variable with flattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefFlattened" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p>Variable with unflattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefNotFlattned" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p> </p>
+        <h4>Variable not conditioned in topic:</h4>
+        <p>Date variable: <MadCap:variable name="subVarFolder/NewVariables.Date" /></p>
+        <p>Multi-definition variable: <MadCap:variable name="subVarFolder/NewVariables.MultiDefVar" /></p>
+        <p>Single definition variable: <MadCap:variable name="subVarFolder/NewVariables.SingleDefVar" /></p>
+        <p>Variable with flattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefFlattened" /></p>
+        <p>Variable with unflattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefNotFlattned" /></p>
+        <p> </p>
+        <h4>Variable replaced in target conditioned:</h4>
+        <p>Date variable: <MadCap:variable name="subVarFolder/NewVariables.Date" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p>Multi-definition variable: <MadCap:variable name="subVarFolder/NewVariables.MultiDefVar" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p>Variable with flattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefFlattened" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p>Variable with unflattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefNotFlattned" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p> </p>
+        <p>Date variable: <MadCap:variable name="subVarFolder/NewVariables.Date" /></p>
+        <p>Multi-definition variable: <MadCap:variable name="subVarFolder/NewVariables.MultiDefVar" /></p>
+        <p>Variable with flattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefFlattened" /></p>
+        <p>Variable with unflattened variable definition: <MadCap:variable name="subVarFolder/NewVariables.VarDefNotFlattned" /></p>
+        <p>
+            <br />
+        </p>
+        <h4>Conditioned out variable set variables:</h4>
+        <p>Date variable: <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.Date" /></p>
+        <p>Multi-definition variable: <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.MultiDefVar" /></p>
+        <p>Single definition variable: <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.SingleDefVar" /></p>
+        <p>Variable with flattened variable definition: <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.VarDefFlattened" /></p>
+        <p>Variable with unflattened variable definition: <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.VarDefNotFlattned" /></p>
+        <p> </p>
+        <h2>Variables in snippets:</h2>
+        <h4>Conditioned out snippets folder:</h4>
+        <p>Conditioned variable snippet &gt; <MadCap:snippetText src="../Resources/Snippets/ConditionedSnippet/conditionedVariableSnippet.flsnp" /></p>
+        <p> </p>
+        <p>Variable snippet <MadCap:snippetText src="../Resources/Snippets/ConditionedSnippet/VariableSnippet.flsnp" /></p>
+        <h4>Snippets not conditioned:</h4>
+        <p>Conditioned variable snippet &gt; <MadCap:snippetText src="../Resources/Snippets/UnconditionedSnippet/conditionedVariableSnippet.flsnp" /></p>
+        <p> </p>
+        <p>Variable Snippet &gt; <MadCap:snippetText src="../Resources/Snippets/UnconditionedSnippet/VariableSnippet.flsnp" /></p>
+        <p> </p>
+        <p> </p>
+        <h2>Togglers</h2>
+        <p>
+            <MadCap:toggler targets="Div" MadCap:conditions="Default.ScreenOnly">HeadConditioned</MadCap:toggler>
+        </p>
+        <div MadCap:targetName="Div">
+            <p>What's Up?</p>
+            <p>
+                <img src="../Resources/Images/01.PNG" title="screentip image toggler" alt="alttext image toggler" />
+            </p>
+        </div>
+        <p MadCap:conditions="Default.ScreenOnly">
+            <MadCap:toggler targets="Div">HeadConditioned</MadCap:toggler>
+        </p>
+        <div MadCap:targetName="Div">
+            <p>What's Up?</p>
+            <p>
+                <img src="../Resources/Images/01.PNG" title="screentip image toggler" alt="alttext image toggler" />
+            </p>
+        </div>
+        <p> </p>
+        <h2>Dropdown</h2>
+        <MadCap:dropDown MadCap:conditions="Default.ScreenOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>conditioned Dropdown head</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Dropdown body </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p> </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Dropdown with conditioned variable</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Here's a conditioned out variable &gt; <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.VarDefFlattened" /></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p> </p>
+        <h2>Expanding</h2>
+        <p>
+            <MadCap:expanding MadCap:conditions="Default.ScreenOnly">
+                <MadCap:expandingHead>Conditioned Expanding text:</MadCap:expandingHead>
+                <MadCap:expandingBody> Hello, this is the expanding text body.</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p> </p>
+        <p MadCap:conditions="Default.ScreenOnly">
+            <MadCap:expanding>
+                <MadCap:expandingHead>Conditioned Expanding text:</MadCap:expandingHead>
+                <MadCap:expandingBody> Hello, this is the expanding text body.</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p> </p>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead>Expanding text with conditioned variable:</MadCap:expandingHead>
+                <MadCap:expandingBody> Hello, there is a conditioned out variable here. <MadCap:variable name="subVarFolder/ConditionedOutNewVariables.VarDefFlattened" /></MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p> </p>
+        <p> </p>
+        <h2>Popup</h2>
+        <p>
+            <MadCap:popup MadCap:conditions="Default.ScreenOnly">
+                <MadCap:popupHead>Conditioned Popup</MadCap:popupHead>
+                <MadCap:popupBody> This is the conditioned popup content.</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <p MadCap:conditions="Default.ScreenOnly">
+            <MadCap:popup>
+                <MadCap:popupHead>Conditioned Popup</MadCap:popupHead>
+                <MadCap:popupBody> This is the conditioned popup content.</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <p> </p>
+        <p> </p>
+        <div style="width: 200px;height: 200px;" MadCap:conditions="Default.ScreenOnly">
+            <p>Hello this is a conditioned out text box that shouldn't be appearing in the output of for translation. please not that this shouldn't appear for translation. Hello this is a conditioned out text box that shouldn't be appearing in the output of for translation. please not that this shouldn't appear for translation.</p>
+        </div>
+        <p> </p>
+        <h2>Equation</h2>
+        <p>Conditioned equation <MadCap:equation xmlns:dsi="http://www.w3.org/1998/Math/MathML" title="conditioned equation screentip" alt="conditioned equation alttext" MadCap:conditions="Default.ScreenOnly"><math><mrow><mi>Z</mi><mo>=</mo><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow></math></MadCap:equation></p>
+        <p> </p>
+        <p MadCap:conditions="Default.ScreenOnly">Conditioned Equation <MadCap:equation xmlns:dsi="http://www.w3.org/1998/Math/MathML" title="conditioned equation screentip" alt="conditioned equation alttext"><math><mrow><mi>Z</mi><mo>=</mo><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow></math></MadCap:equation></p>
+        <p> </p>
+        <h2>Help Concept Link</h2>
+        <p>
+            <MadCap:relatedTopics MadCap:conditions="Default.ScreenOnly"> </MadCap:relatedTopics>
+        </p>
+        <p MadCap:conditions="Default.ScreenOnly">
+            <MadCap:relatedTopics />
+        </p>
+        <p> </p>
+        <p> </p>
+        <p>A-Link <MadCap:conceptLink term="Concept" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p MadCap:conditions="Default.ScreenOnly">A-Link <MadCap:conceptLink term="Concept" /></p>
+        <p> </p>
+        <p>K-Link <MadCap:keywordLink term="" MadCap:conditions="Default.ScreenOnly" /></p>
+        <p MadCap:conditions="Default.ScreenOnly">K-Link <MadCap:keywordLink term="" /></p>
+        <p> </p>
+        <p>Shortcut <MadCap:shortcut path="c:windows\system32.calc.exe" parameters="" message="" wparam="" lparam="" MadCap:conditions="Default.ScreenOnly">My shortcut</MadCap:shortcut></p>
+        <p MadCap:conditions="Default.ScreenOnly">Shortcut <MadCap:shortcut path="c:windows\system32.calc.exe" parameters="" message="" wparam="" lparam="">My shortcut</MadCap:shortcut></p>
+        <p> </p>
+        <h2>Script</h2>
+        <p>
+            <script type="text/jscript" MadCap:conditions="Default.ScreenOnly">/*<![CDATA[*/alert('Hello, World!')
+			/*]]>*/</script>
+        </p>
+        <p MadCap:conditions="Default.ScreenOnly">
+            <script type="text/jscript">/*<![CDATA[*/alert('Hello, World!')
+			/*]]>*/</script>
+        </p>
+        <p> </p>
+        <h2>Proxy</h2>
+        <MadCap:indexProxy MadCap:conditions="Default.ScreenOnly" />
+        <p>
+            <MadCap:pageFooter>
+                <p>- Page Footer-</p>
+            </MadCap:pageFooter>
+        </p>
+    </body>
+</html>

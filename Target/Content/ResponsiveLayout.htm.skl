@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="718" MadCap:lastWidth="1189" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Keyword 1;Keyword 2;Keyword 3;Keyword 4;Parent 1:child 1" />砻קยด20ตว融</h1>
+        <p>&#160;</p>
+        <div class="NewRowClass1">
+            <div>
+                <p MadCap:conditions="Default.ScreenOnly">砻קยด21ตว融<img src="Resources/Images/02.PNG" title="砻קยด2ตว融" alt="砻קยด3ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+            <div>
+                <p>砻קยด22ตว融<img src="Resources/Images/03.PNG" title="砻קยด4ตว融" alt="砻קยด5ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+            <div>
+                <p>砻קยด23ตว融<img src="Resources/Images/01.PNG" title="砻קยด6ตว融" alt="砻קยด7ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+        </div>
+        <div class="NewRowClass1" MadCap:conditions="Default.ScreenOnly">
+            <div>
+                <p>砻קยด24ตว融<img src="Resources/Images/02.PNG" title="砻קยด8ตว融" alt="砻קยด9ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+            <div>
+                <p>砻קยด25ตว融<img src="Resources/Images/03.PNG" title="砻קยด10ตว融" alt="砻קยด11ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+            <div>
+                <p>砻קยด26ตว融<img src="Resources/Images/01.PNG" title="砻קยด12ตว融" alt="砻קยด13ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+        </div>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <div class="NewRowClass1">
+            <div>
+                <p>砻קยด27ตว融<img src="Resources/Images/02.PNG" title="砻קยด14ตว融" alt="砻קยด15ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+            <div MadCap:conditions="Default.ScreenOnly">
+                <p>砻קยด28ตว融<img src="Resources/Images/03.PNG" title="砻קยด16ตว融" alt="砻קยด17ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+            <div>
+                <p>砻קยด29ตว融<img src="Resources/Images/01.PNG" title="砻קยด18ตว融" alt="砻קยด19ตว融" style="width: 102px;height: 103px;" /></p>
+            </div>
+        </div>
+    </body>
+</html>

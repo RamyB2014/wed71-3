@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="Default.ScreenOnly">
+    <Variable Comment="" Name="ReplaceInTarget">砻קยด1ตว融</Variable>
+    <Variable Name="NewDateTimeVariable" Comment="" Type="DateTime" LastUpdated="2015-11-04T09:01:20.6477264-08:00">砻קยด2ตว融</Variable>
+</CatapultVariableSet>

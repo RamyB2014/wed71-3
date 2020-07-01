@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="(none)"
+  MasterPage="/Content/Resources/MasterPage.flmsp"
+  MenuSkin="/Project/Skins/Menu.flskn"
+  TopicToolbarSkin="/Project/Skins/TopicToolbar.flskn"
+  SearchBarSkin="/Project/Skins/SearchBar.flskn"
+  SearchResultsSkin="/Project/Skins/SearchResult.flskn"
+  MasterToc="/Project/TOCs/All.fltoc"
+  MoveOutputContentToRoot="true"
+  TargetLanguage="en-us,ar_file:///C:/Users/rbutros/Desktop/Arabic/ConditionsArabic/ConditionsArabic.flprj,es_file:///C:/Users/rbutros/Desktop/Spanish/ConditionsSpanish/ConditionsSpanish.flprj"
+  EnableFeedbackService="true"
+  LiveHelpServer="lokamoto03/pulse"
+  LiveHelpKey="btjr1-kno7c-8a828-25c32-414b8-f3c54-c66e3-19d50">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

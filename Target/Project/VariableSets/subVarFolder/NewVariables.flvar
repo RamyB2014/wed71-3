@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment="multidef1comment"
+    Name="MultiDefVar"
+    EvaluatedDefinition="Multi-definition variable definition 01">Multi-definition variable definition 01</Variable>
+  <Variable
+    Comment="single def var comment"
+    Name="SingleDefVar"
+    EvaluatedDefinition="Single definition variable definition">Single definition variable definition</Variable>
+  <Variable
+    Name="MultiDefVar"
+    Comment="multidef2comment"
+    EvaluatedDefinition="Multi-definition variable definition 2">Multi-definition variable definition 2</Variable>
+  <Variable
+    Name="VarDefFlattened"
+    Comment="varDefFlattened comment"
+    EvaluatedDefinition="Flattened variable definition &gt; Flattened Definition Variable">Flattened variable definition &gt; [%=subVarFolder/NewVariables.FlattenedDefVar%]</Variable>
+  <Variable
+    Name="VarDefNotFlattned"
+    Comment="varDefNotFlattened comment"
+    EvaluatedDefinition="Unflattened variable definition &gt; Unflattened Definition Variable.">Unflattened variable definition &gt; [%=subVarFolder/NewVariables.UnflattenedDef.Var.%]</Variable>
+  <Variable
+    Name="UnflattenedDef.Var."
+    Comment="unflatteneddefvar comment"
+    EvaluatedDefinition="Unflattened Definition Variable.">Unflattened Definition Variable.</Variable>
+  <Variable
+    Name="FlattenedDefVar"
+    Comment="flatteneddefvar comment"
+    EvaluatedDefinition="Flattened Definition Variable here">Flattened Definition Variable here</Variable>
+  <Variable
+    Name="Date"
+    Comment="dateFileCreationComment"
+    Type="DateTimeFileCreated"
+    LastUpdated="2015-12-09T12:52:03.4519952-08:00"
+    EvaluatedDefinition="&quot;File Creation&quot; hh:mm tt - MM/dd/yyyy">"File Creation" hh:mm tt - MM/dd/yyyy</Variable>
+  <Variable
+    Name="Date"
+    Comment="onBuild Comment"
+    Type="DateTime"
+    LastUpdated="2015-12-09T12:55:13.7371920-08:00"
+    EvaluatedDefinition="&quot;On Build&quot; hh:mm tt - MM/dd/yyyy">"On Build" hh:mm tt - MM/dd/yyyy</Variable>
+  <Variable
+    Name="Date"
+    Comment="fileSave Comment"
+    Type="DateTimeFileSaved"
+    LastUpdated="2015-12-09T12:55:37.5849905-08:00"
+    EvaluatedDefinition="&quot;File Save&quot; hh:mm tt - MM/dd/yyyy">"File Save" hh:mm tt - MM/dd/yyyy</Variable>
+  <Variable
+    Name="Date"
+    Comment="ProjectSave Comment"
+    Type="DateTimeProjectSaved"
+    LastUpdated="2015-12-09T12:56:04.2812619-08:00"
+    EvaluatedDefinition="&quot;Project Save&quot; hh:mm tt - MM/dd/yyyy">"Project Save" hh:mm tt - MM/dd/yyyy</Variable>
+</CatapultVariableSet>

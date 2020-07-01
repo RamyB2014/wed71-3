@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="ConditionedParent">
+    <TocEntry
+      Title="- topic header-ConditionedTopic-parent"
+      Link="/Content/ConditionedParent/ConditionedContent-parent.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="- topic header-ConditionedTopic-parent"
+      Link="/Content/ConditionedParent/ConditionedTopic-parent.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="ContentWBothConditions"
+      Link="/Content/ConditionedParent/ContentWBothConditions-parentFolder.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

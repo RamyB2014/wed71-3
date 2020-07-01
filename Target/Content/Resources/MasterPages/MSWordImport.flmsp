@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:sourceDocument="D:\Library\Generic Word Document.docx" MadCap:lastBlockDepth="3" MadCap:lastHeight="325" MadCap:lastWidth="1500" xml:space="preserve">
+    <head><title></title>
+    </head>
+    <body>
+        <div>
+            <p class="Header" style="font-family: 'Californian FB';">Page Header</p>
+            <p class="Header"> </p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="FontStyle">Page Footer</p>
+            <p class="Footer_1"> </p>
+        </div>
+    </body>
+</html>

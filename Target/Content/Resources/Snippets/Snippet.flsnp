@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="698" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        This is a snippet containing a conditioned text here &gt; <span MadCap:conditions="Default.ScreenOnly">bla blah</span></body>
+<MadCap:keyword term="Snippet index" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></html>

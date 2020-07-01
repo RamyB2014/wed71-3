@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Concept</Key>
+  <OldValue>Concept</OldValue>
+  <NewValue>Concept</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>ConditionedConcept</Key>
+  <OldValue>ConditionedConcept</OldValue>
+  <NewValue>ConditionedConcept</NewValue>
+</Entry>
+</StringMap>

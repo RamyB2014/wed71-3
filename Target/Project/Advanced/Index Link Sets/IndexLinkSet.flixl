@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultIndexLinkSet>
+  <IndexLink
+    Term="Keyword 1"
+    LinkType="sortas"
+    LinkedTerm="z"></IndexLink>
+  <IndexLink
+    Term="Keyword 2"
+    LinkType="sortas"
+    LinkedTerm="y"></IndexLink>
+  <IndexLink
+    Term="Keyword 4"
+    LinkType="sortas"
+    LinkedTerm="w"></IndexLink>
+  <IndexLink
+    Term="Parent 1"
+    LinkType="sortas"
+    LinkedTerm="v"></IndexLink>
+  <IndexLink
+    Term="Parent 1:child 1"
+    LinkType="sortas"
+    LinkedTerm="z"></IndexLink>
+  <IndexLink
+    Term="Parent 1:child 1:child 1a"
+    LinkType="sortas"
+    LinkedTerm="z"></IndexLink>
+  <IndexLink
+    Term="Parent 1:child 1:child 1b"
+    LinkType="sortas"
+    LinkedTerm="x"></IndexLink>
+  <IndexLink
+    Term="Parent 1:child 2"
+    LinkType="sortas"
+    LinkedTerm="x"></IndexLink>
+  <IndexLink
+    Term="ref 1"
+    LinkType="sortas"
+    LinkedTerm="Keyword 3"></IndexLink>
+  <IndexLink
+    Term="Keyword 3"
+    LinkType="sortas"
+    LinkedTerm="x"></IndexLink>
+  <IndexLink
+    Term="ref 2"
+    LinkType="sortas"
+    LinkedTerm="Keyword 2"></IndexLink>
+  <IndexLink
+    Term="ref 3"
+    LinkType="sortas"
+    LinkedTerm="Keyword 1"></IndexLink>
+  <IndexLink
+    Term="Parentr 2"
+    LinkType="sortas"
+    LinkedTerm="Keyword 1"></IndexLink>
+  <IndexLink
+    Term="Parentr 2:childr 1"
+    LinkType="sortas"
+    LinkedTerm="Parent 1:child 2"></IndexLink>
+  <IndexLink
+    Term="Parentr 2:childr 2"
+    LinkType="sortas"
+    LinkedTerm="Parent 1:child 1"></IndexLink>
+  <IndexLink
+    Term="Table index:table child:table child 1:table child 2:table child 3"
+    LinkType="sortas"
+    LinkedTerm="[%=Variables.CompanyName%]"></IndexLink>
+</CatapultIndexLinkSet>

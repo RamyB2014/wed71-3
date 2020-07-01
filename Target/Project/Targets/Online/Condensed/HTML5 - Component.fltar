@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="(none)"
+  MasterPage="/Content/Resources/MasterPage.flmsp"
+  MenuSkin="/Project/Skins/Menu.flskn"
+  TopicToolbarSkin="/Project/Skins/TopicToolbar.flskn"
+  SearchBarSkin="/Project/Skins/SearchBar.flskn"
+  SearchResultsSkin="/Project/Skins/SearchResult.flskn"
+  MasterToc="/Project/TOCs/All.fltoc"
+  TargetLanguage="en-us,ar_../../Arabic/ConditionsArabic/ConditionsArabic.flprj,es_../../Spanish/ConditionsSpanish/ConditionsSpanish.flprj"
+  InvertStylesheets="false"
+  InvertLocalStyles="false"
+  InvertCaptureCaptions="true"
+  LiveHelpServer="lokamoto03/pulse"
+  LiveHelpKey="yzrh1-jgp73-30bd7-983cc-44f8a-7650c-4bc45-f9962"
+  EnableFeedbackService="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

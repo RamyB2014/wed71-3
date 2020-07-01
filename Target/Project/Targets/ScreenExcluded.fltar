@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  conditions=""
+  ConditionTagExpression="exclude[Default.ScreenOnly] "
+  MasterToc="/Project/TOCs/All.fltoc"
+  ExcludeUnreferencedContent="false"
+  SearchEngine="MadCapSearch"
+  GoogleSearchContextKey="002922245134156521394:vihxy3h3hqu"
+  EnableSitemap="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="subVarFolder/ConditionedOutNewVariables/MultiDefVar">Multi-definition variable definition 2</Variable>
+  </Variables>
+</CatapultTarget>

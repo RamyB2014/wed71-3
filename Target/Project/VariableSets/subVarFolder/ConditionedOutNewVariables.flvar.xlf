@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="ConditionedOutNewVariables.flvar"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-flvar"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="ConditionedOutNewVariables.flvar.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">11</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7487.27091"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Multi-definition variable definition 01</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">Multi-definition variable definition 01</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Single definition variable definition</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">Single definition variable definition</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Multi-definition variable definition 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">Multi-definition variable definition 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Flattened variable definition &gt; <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=subVarFolder/ConditionedOutNewVariables.FlattenedDefVar%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">Flattened variable definition &gt; <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=subVarFolder/ConditionedOutNewVariables.FlattenedDefVar%]</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Unflattened variable definition &gt; <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=subVarFolder/ConditionedOutNewVariables.UnflattenedDef.Var.%]</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">Unflattened variable definition &gt; <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">[%=subVarFolder/ConditionedOutNewVariables.UnflattenedDef.Var.%]</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Unflattened Definition Variable.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">Unflattened Definition Variable.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-variable"
+        phase-name="pretrans"><source>Flattened Definition Variable here</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">Flattened Definition Variable here</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-variable-datetimefilecreated"
+        phase-name="pretrans"><source>"File Creation" hh:mm tt - MM/dd/yyyy</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">"File Creation" hh:mm tt - MM/dd/yyyy</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-variable-datetime"
+        phase-name="pretrans"><source>"On Build" hh:mm tt - MM/dd/yyyy</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">"On Build" hh:mm tt - MM/dd/yyyy</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-variable-datetimefilesaved"
+        phase-name="pretrans"><source>"File Save" hh:mm tt - MM/dd/yyyy</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">"File Save" hh:mm tt - MM/dd/yyyy</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-variable-datetimeprojectsaved"
+        phase-name="pretrans"><source>"Project Save" hh:mm tt - MM/dd/yyyy</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:parentConditions="Default.ScreenOnly">"Project Save" hh:mm tt - MM/dd/yyyy</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

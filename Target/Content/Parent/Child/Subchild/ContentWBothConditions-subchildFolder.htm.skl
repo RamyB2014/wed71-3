@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="222" MadCap:lastWidth="1539" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Parent 1:child 1:child 1b;ref 2;Parentr 2:childr 1;Table index:table child:table child 1:table child 2:LLL;Table index:table child:table child 1:table child 2:NNN" />砻קยด2ตว融</h1>
+        <h2>砻קยด3ตว融</h2>
+        <p MadCap:conditions="Default.ScreenOnly">砻קยด4ตว融</p>
+        <h2>砻קยด5ตว融</h2>
+        <p MadCap:conditions="Default.PrintOnly">砻קยด6ตว融</p>
+    </body>
+</html>

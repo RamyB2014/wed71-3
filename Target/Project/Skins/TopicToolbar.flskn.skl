@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="砻קยด1ตว融" ComponentType="TopicToolbar" EnableResponsiveOutput="True">
+    <Stylesheet />
+    <TopicToolbar EnableCustomLayout="true" Buttons="SelectLanguage|SwitchLanguage|PreviousTopic|CurrentTopicIndex|NextTopic" />
+    <Strings />
+</CatapultSkin>

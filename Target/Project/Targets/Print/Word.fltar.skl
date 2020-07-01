@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="MsWord" Destinations="" GlossaryTermConversion="marked" TargetLanguage="en-us,ar_file:///C:/Users/rbutros/Desktop/Arabic/ConditionsArabic/ConditionsArabic.flprj,es_file:///C:/Users/rbutros/Desktop/Spanish/ConditionsSpanish/ConditionsSpanish.flprj" EmbedImages="true" Medium="print">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="false" GenerateIndexProxy="false" GenerateGlossaryProxy="false" ExpandingTextConversion="expand" PopupConversion="expand" GeneratePDF="true" GenerateXPS="true" />
+</CatapultTarget>
